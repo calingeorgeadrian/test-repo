@@ -22,3 +22,4 @@ commit
 -commit to the cause  
 -join the dark side  
 -added Dice.prefab  
+-1st commit on feature-visuals
