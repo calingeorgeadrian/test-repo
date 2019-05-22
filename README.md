@@ -20,4 +20,5 @@ commit
 -testing commits for sounds  
 -masteeeeeer  
 -commit to the cause  
--join the dark side
+-join the dark side  
+-added Dice.prefab  
