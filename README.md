@@ -19,5 +19,5 @@ commit
 commit  
 -testing commits for sounds  
 -masteeeeeer  
--commmmiiiiiiiit
--master once more
+-commit to the cause  
+-join the dark side
